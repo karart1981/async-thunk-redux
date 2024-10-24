@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "id": "b9e3",
+      "name": "Artur",
+      "surname": "Karapetyan"
+    },
+    {
+      "id": "a29f",
+      "name": "Artak ",
+      "surname": "Beglaryan"
+    },
+    {
+      "id": "2b24",
+      "name": "Vardan ",
+      "surname": "Simonyan"
+    },
+    {
+      "id": "3631",
+      "name": "Karine",
+      "surname": "Petrosyan"
+    },
+    {
+      "id": "d46f",
+      "name": "Lucy ",
+      "surname": "Grigoryan"
+    },
+    {
+      "id": "a3f5",
+      "name": "Marine ",
+      "surname": "Kirakosyan"
+    },
+    {
+      "id": "59bf",
+      "name": "Arman ",
+      "surname": "Beglaryan"
+    },
+    {
+      "id": "9a1b",
+      "name": "Nune",
+      "surname": "Simonyan"
+    }
+  ]
+}
